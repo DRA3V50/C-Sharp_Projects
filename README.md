@@ -2,7 +2,7 @@
 
 C# projects focused on reverse engineering and Splunk-style log analysis for cybersecurity learning.
 
-## ReverseEGR_Splunk
+## ReverseEGR_Splunk[RedTeam]
 
 Simulates Splunk-like log tracking and basic PE file import analysis to identify suspicious activity.
 
