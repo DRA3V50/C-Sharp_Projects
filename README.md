@@ -1,4 +1,4 @@
-# CSharp_Projects
+# C-Sharp_Projects
 
 C# projects focused on reverse engineering and Splunk-style log analysis for cybersecurity learning.
 
